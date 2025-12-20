@@ -1,4 +1,4 @@
-## 📚 Iteração e Blocos em Ruby
+## 📚 Iteração e Blocos em Ruby.
 
 ### 🔁 O que é iteração?
 
